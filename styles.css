@@ -22,25 +22,13 @@ table {
 
 
 .banner {
-    background: linear-gradient(90deg, #4a76a8, #3b5c85);
-    color: white;
     text-align: center;
-}
-
-.banner h1 {
-    font-family: 'Georgia', serif;
-    font-size: 3em;
-    font-weight: bold;
-    margin: 0;
-    color: #ffffff;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 }
 
 
 .navigation {
     background-color: #f2f4f7;
     text-align: center;
-    padding: 15px 0;
     border-bottom: 2px solid #e0e0e0;
 }
 
