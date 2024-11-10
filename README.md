@@ -1,6 +1,6 @@
 # University Life Sample Website 
 
-A sample website that presents a glimpse into university life, designed using HTML, CSS, and JavaScript. This website is available in two designs. You can view the other design [here]().
+A sample website that presents a glimpse into university life, designed using HTML, CSS, and JavaScript. This website is available in two designs. You can view the other design [here](https://github.com/uddinmehrab/UniversityLifeWeb2).
 
 ## Project Overview
 
